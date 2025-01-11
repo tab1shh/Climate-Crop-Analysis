@@ -11,8 +11,8 @@ This project explores the relationship between climate trends and crop yields ac
 ## Technologies Used
 * **Language:** Python
 * **Libraries:**
-⋅⋅⋅**Pandas** used for data manipulation
-⋅⋅⋅**Matplotlib** for data visualization
+    * **Pandas** used for data manipulation
+    * **Matplotlib** for data visualization
 
 ## Dataset
 The project used publicly available datasets containing:
